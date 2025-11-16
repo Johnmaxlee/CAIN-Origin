@@ -1,0 +1,19 @@
+CAIN Original Authorship Statement  
+----------------------------------
+
+CAIN (Collaborative AI Nodes) was created by **Jon H. Lee (known as Jonbizi)** under the **Manifestools** brand in 2025.
+
+This folder contains the original, timestamped foundation documents for the CAIN architecture:
+
+- CAIN Manifesto v1.0  
+- CAIN Standard v1.0  
+- CAIN Glossary v1.0  
+
+These documents establish the origin, purpose, terminology, and structure of the CAIN system.
+
+All materials were first published in 2025 and are preserved as part of the CAIN Origin Archive.
+
+Authored by:  
+**Jonbizi (Jon H. Lee)**  
+Founder of Manifestools  
+2025
